@@ -1,3 +1,5 @@
+# NOTE: This repo has been archived. The project is continued at https://github.com/NathanHarding/Demographics.jl
+
 # Demographics.jl
 
 ```julia
